@@ -6,7 +6,7 @@ An interactive Power BI dashboard for exploring e-commerce sales, profit, order 
 
 Save the screenshot in this repository with the filename `Ecommerce sales dashboard screenshot.jpg` to display it here:
 
-![RIKI E-Commerce Sales Dashboard]([Ecommerce%20sales%20dashboard%20screenshot.jpg](https://github.com/rickypatel3578-del/Ecommerce-sales-dashboard/blob/main/Ecommerce%20sales%20dashboard%20screenshot.jpg))
+![RIKI E-Commerce Sales Dashboard](https://github.com/rickypatel3578-del/Ecommerce-sales-dashboard/blob/main/Ecommerce%20sales%20dashboard%20screenshot.jpg)
 
 ## Project Purpose
 
